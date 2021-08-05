@@ -1,0 +1,11 @@
+.container {
+  width: fit-content;
+  padding: 10px;
+  background-color: rgb(94, 255, 0);
+}
+ul {
+  list-style: none;
+}
+h2 {
+  display: block;
+}
